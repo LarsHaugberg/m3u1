@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp12": {
+      "commandName": "Project",
+      "commandLineArgs": "hei på deg din dritt! hva F. ser du på!"
+    }
+  }
+}
